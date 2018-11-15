@@ -3,6 +3,7 @@
 
 **What we can improve?:**
 * descriptions (:
+* remove words from different languages
 
 
 --------------------
