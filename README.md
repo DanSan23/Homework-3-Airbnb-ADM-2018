@@ -1,14 +1,7 @@
 # Homework-3-Airbnb-ADM-2018
 --------------------
 
-**What we can improve?:**
-* descriptions (:
-* remove words from different languages
+Repository for the third homework of the course ADM 2018 at the Sapienza University.
+Repository authors: Joanna Broniarek, Alice Shirina, Daniele Sanna.
 
-
---------------------
-
-**The ideas for "A NEW SCORE":**
-* getting scores(stars) from websites
-*
-*
+In the main repository ...
