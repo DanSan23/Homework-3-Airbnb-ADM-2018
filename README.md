@@ -20,4 +20,4 @@ Repository authors: Joanna Broniarek, Alice Shirinà, Daniele Sanna.
 3. **GeoMap.ipynb**  - There is an implementation of the Geomap for searching documents according to their locations. Example of the map is in the file **Visualisation.html**
 
 ## Script Descriptions
- 1. functions.py - external file with definitions of functions used in the Homework_3_Main notebook.
+ 1. functions.py - external file with definitions of functions used in the Homework_3 notebook.
